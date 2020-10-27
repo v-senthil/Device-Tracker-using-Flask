@@ -6,6 +6,8 @@
 
 <br><br>
 
+This was made sepecifically for Raspberry Pi. Where the GPS Module send latitide and longitide data to sqlite3 database and which is then fetched using flask Application.
+
 ## To Make in Work
 
 #### pip3 install flask
