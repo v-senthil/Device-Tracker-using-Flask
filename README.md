@@ -21,7 +21,7 @@
 8. See that the rocket image in the map changes the location according to the location you give
 
 
-## For using it all over the world
+## For using it all over the World
 
 1. Create a account in https://ngrok.com/
 2. Download ngrok accoring to your system
@@ -29,5 +29,7 @@
 4. Change directory to the place where ngrok file is present
 5. Run - ./ngrok authtoken YOU_AUTH_TOKEN (which will be available in https://dashboard.ngrok.com/get-started/setup )
 6. Run - ./ngrok http 5000
+7. Copy the link and paste it in templates/track.html line 65 with an extension '/locationdata'
+   - eg: var url = 'https://cfa635282g00.ngrok.io/locationdata';
 
 #### Now the site in the port 5000 is globally avaliable all over the world
