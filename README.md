@@ -1,9 +1,10 @@
 # Device Tracker using Flask
 
-## Used Software Applications:
-### Mapbox 
-### Flask
+### Used Software Applications:
+#### Mapbox 
+#### Flask
 
+<br><br>
 
 ## To Make in Work
 
