@@ -8,7 +8,7 @@
 
 ## To Make in Work
 
-#### pip install flask
+#### pip3 install flask
 
 1. wget "https://github.com/v-senthil/Device-Tracker-using-Flask"
 2. unzip the file
