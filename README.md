@@ -1,8 +1,8 @@
 # Device Tracker using Flask
 
 ### Used Software Applications:
-#### Mapbox 
-#### Flask
+#### 1. Mapbox 
+#### 2. Flask
 
 <br><br>
 
